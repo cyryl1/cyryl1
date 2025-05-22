@@ -18,14 +18,14 @@ I’m Praise Aribisala, a computer science student and software engineer who lov
 
 <br/>
 
-💻 My expertise lies in backend development, Frontend development, API design and development, and deploying software solutions. 
+💻 My expertise lies in backend development, Frontend development, Mobile development, API design and development, and deploying software solutions. 
 
 🤗 I enjoy working with technologies like Python, Flask, SQL, JavaScript, TypeScript to create efficient, reliable systems.
 
 <br/>
 
 - 🔭 I’m currently working on becoming badass <br/>
-- 🌱 I’m currently learning Django <br/>
+- 🌱 I’m currently learning Django and React Native <br/>
 - 👯 I’m looking to collaborate on interesting projects with opportunities to apply and grow my skills <br/>
 - 💬 Ask me about anything Python, Backend, and Frontend!
 
