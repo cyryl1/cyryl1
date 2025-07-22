@@ -44,7 +44,7 @@ I’m Praise Aribisala, a computer science student and software engineer who lov
     </p>
     StudyHack is an EdTech project that earned me a joint 4th-place win (top 10) in my first-ever hackathon (HackOps 1.0). Worked as the lead frontend engineer on the StudyHack project, developing the Responsive UI using Javascript (React).
        <br/><br/>
-    <a href="https://github.com/Akinwalee/studyhack"> <img width="210" src="https://github-readme-stats.vercel.app/api/pin/?username=Akinwalee&repo=studyhack&theme=react&bg_color=1F222E&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="StudyHack"/> </a>
+    <a href="https://github.com/cyryl1/StudyHack"> <img width="210" src="https://github-readme-stats.vercel.app/api/pin/?username=cyryl1&repo=studyhack&theme=react&bg_color=1F222E&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="StudyHack"/> </a>
   </td>
   <td>
     <p>
