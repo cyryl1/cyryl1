@@ -49,12 +49,12 @@ I’m Praise Aribisala, a computer science student and software engineer who lov
   <td>
     <p>
       <b>
-        <a href="https://github.com/Akinwalee/simple_shell">Simple Shell</a>
+        <a href="https://github.com/cyryl1/simple_shell">Simple Shell</a>
       </b>
     </p>
     Worked in a team to build Simple Shell. A custom Bash-like shell from scratch in C, supporting command execution and implementing some built-in commands and environmental variable handling to simulate the behavior of a Unix-like shell.
      <br/><br/>
-      <a href="https://github.com/Akinwalee/simple_shell"> <img width="210" src="https://github-readme-stats.vercel.app/api/pin/?username=Akinwalee&repo=simple_shell&theme=react&bg_color=1F222E&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="Simple Shell"/> </a>
+      <a href="https://github.com/cyryl1/simple_shell"> <img width="210" src="https://github-readme-stats.vercel.app/api/pin/?username=cyryl1&repo=simple_shell&theme=react&bg_color=1F222E&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="Simple Shell"/> </a>
   </td>
 </tr>
   <tr>
