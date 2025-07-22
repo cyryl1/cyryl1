@@ -38,7 +38,7 @@ I’m Praise Aribisala, a computer science student and software engineer who lov
     <td>
     <p>  
       <b>
-        <a href="https://github.com/Akinwalee/studyhack">StudyHack
+        <a href="https://github.com/cyryl1/StudyHack">StudyHack
         </a>
       </b>
     </p>
